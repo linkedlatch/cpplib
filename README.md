@@ -4,8 +4,7 @@ A header-only C++ container library.
 
 ## Requirements
 
-C++11 or later — current containers only use C++11 features (move semantics,
-variadic templates, `initializer_list`, etc.).
+C++11 or later
 
 ## Usage
 
